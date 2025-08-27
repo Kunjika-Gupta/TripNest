@@ -1,8 +1,9 @@
 # TripNest
-TripNest is a web application for browsing accommodation listings, designed to provide a modern and intuitive booking experience.  
+
+TripNest is a web application for browsing accommodation listings, designed to provide a modern and intuitive booking experience.
 
 ## Current Features
-- View property listings with images and details  
+- View property listings with images and details
 
 ## Future Enhancements
 - Search and filter by location  
@@ -12,10 +13,10 @@ TripNest is a web application for browsing accommodation listings, designed to p
 - Map integration for location-based browsing  
 
 ## Tech Stack
-- Frontend: React.js, HTML5, CSS3, JavaScript  
-- Backend: Node.js, Express.js  
-- Database: MongoDB  
-- Other Tools: Git, GitHub  
+- **Frontend:** React.js, HTML5, CSS3, JavaScript  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB  
+- **Other Tools:** Git, GitHub  
 
 ## Getting Started
 
@@ -24,4 +25,5 @@ TripNest is a web application for browsing accommodation listings, designed to p
 git clone https://github.com/Kunjika-Gupta/TripNest.git
 cd TripNest
 npm install
-npm star
+npm start
+
