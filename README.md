@@ -4,16 +4,15 @@ TripNest is a web application for browsing accommodation listings, designed to p
 
 ## Current Features
 - View property listings with images and details
+- Add new property listings as a host
+- Add and Delete reviews for better experience
 
 ## Future Enhancements
 - Search and filter by location  
-- User authentication & authorization  
-- Add new property listings as a host  
-- Booking and payment integration  
-- Map integration for location-based browsing  
+- User authentication & authorization   
 
 ## Tech Stack
-- **Frontend:** React.js, HTML5, CSS3, JavaScript  
+- **Frontend:** Bootstrap, HTML5, CSS3, JavaScript ,React(in Future)
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB  
 - **Other Tools:** Git, GitHub  
