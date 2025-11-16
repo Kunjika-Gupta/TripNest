@@ -18,6 +18,19 @@ TripNest is a web application for browsing accommodation listings, designed to p
 - **Other Tools:** Git, GitHub  
 
 ## Getting Started
+Here are some screenshots of the TripNest application:
+
+### Home Page  
+![Home Page](./screenshots/screenshot:home-page.png)  
+
+### Property Listing Page  
+![Property Listing](screenshots/screenshot:property-listing.png)  
+
+### Adding a Listing Page 
+![Property Details](screenshots/screenshot:add-listing.png)  
+
+### Review Section  
+![Reviews](screenshots/screenshot:review-section.png)  
 
 ### Installation
 ```bash
