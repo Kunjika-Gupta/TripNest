@@ -8,7 +8,7 @@
         <input
           type="text"
           placeholder="enter title"
-          name="title"
+          name="listing[title]"
           class="form-control"
           required
         />
@@ -17,7 +17,11 @@
 
       <div class="mb-3">
         <label for="description" class="form-label">Description</label>
-        <textarea name="description" class="form-control" required></textarea>
+        <textarea
+          name="listing[description]"
+          class="form-control"
+          required
+        ></textarea>
         <div class="invalid-feedback">Please enter a short description!</div>
       </div>
 
@@ -26,7 +30,7 @@
         <input
           type="text"
           placeholder="enter image-url"
-          name="image"
+          name="listing[image]"
           class="form-control"
         />
       </div>
@@ -35,7 +39,7 @@
         <input
           type="number"
           placeholder="enter price"
-          name="price"
+          name="listing[price]"
           class="form-control"
           required
         />
@@ -47,7 +51,7 @@
         <input
           type="text"
           placeholder="enter location"
-          name="location"
+          name="listing[location]"
           class="form-control"
           required
         />
@@ -59,7 +63,7 @@
         <input
           type="text"
           placeholder="enter country"
-          name="country"
+          name="listing[country]"
           class="form-control"
           required
         />
