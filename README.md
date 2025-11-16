@@ -21,7 +21,7 @@ TripNest is a web application for browsing accommodation listings, designed to p
 Here are some screenshots of the TripNest application:
 
 ### Home Page  
-![Home Page](./screenshots/screenshot:home-page.png)  
+![Home Page](screenshots/screenshots:home-page.png)  
 
 ### Property Listing Page  
 ![Property Listing](screenshots/screenshot:property-listing.png)  
